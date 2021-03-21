@@ -3,6 +3,7 @@
    
    echo "Olá Mundo! <br>";
    echo "Estou a aprender ".$nome."<br>";
+   echo"{$nome} é brutal! <br>";
    
    
     
