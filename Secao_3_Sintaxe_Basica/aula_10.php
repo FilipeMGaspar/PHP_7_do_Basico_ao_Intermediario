@@ -8,11 +8,13 @@ $valido = true;
 
 echo $nome_completo."<br>";
 echo gettype($nome_completo)."<br>";
+
 //echo $nome_completo; // Comentário de uma linha
 /* Comentário 
  * de multiplas 
  * Linhas
  */
+
 echo $sexo."<br>";
 echo gettype($sexo)."<br>";
 
