@@ -10,9 +10,9 @@ $senha = "1234";
 }*/
 
 if($senha == "123"){
-    echo "Acesso de nivel 1";
+    echo "Acesso autorisado! Nivel 1";
 }elseif ($senha == "1234") {
-    echo "Acesso de nivel 2";
+    echo "Acesso autorizado! Nivel 2";
 }else{
-    echo "Acesso Inválido";
+    echo "Acesso Inválido!";
 }
