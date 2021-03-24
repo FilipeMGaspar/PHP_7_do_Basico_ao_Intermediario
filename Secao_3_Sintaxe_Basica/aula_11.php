@@ -27,5 +27,7 @@ echo "<br>". 2+2 ."<br>";
         <p>5 x 2 = <?=$multiplicacao?></p>
         <p>10 / 2 = <?=$divisao?></p>
         <p>Resto da divisao 5:2 =<?=$restoDivisao?> </p>
+        <br>
+        <p><?=($soma * $divisao)?></p>
     </body>
 </html>
