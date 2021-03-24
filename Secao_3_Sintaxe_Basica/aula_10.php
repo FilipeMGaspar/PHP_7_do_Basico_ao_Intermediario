@@ -10,6 +10,7 @@ echo gettype($nome_completo)."<br>";
 echo $sexo."<br>";
 echo gettext($sexo)."<br>";
 
-
+echo $salario."<br>";
+echo gettype($salario)."<br>";
 
 
