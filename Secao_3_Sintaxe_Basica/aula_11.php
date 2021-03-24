@@ -3,7 +3,7 @@
 $soma = 1 + 3;
 $subtracao = 5 - 2;
 $multiplicacao = 5 * 2;
-$divisao = 10 / 2;
+$divisao = 9 / 2;
 $restoDivisao = 5 % 2;
 
 
